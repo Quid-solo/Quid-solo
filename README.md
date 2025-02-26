@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React library
 - 💞️ I’m looking to collaborate on projects which are beneficial for society
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I even don't know the meaning of Quid-solo
 
 <!---
 Quid-solo/Quid-solo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
