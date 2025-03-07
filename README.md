@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quid-solo
 - 👀 I’m interested in making life easy with my ideas
-- 🌱 I’m currently learning React library
+- 🌱 I’m currently learning backened developement
 - 💞️ I’m looking to collaborate on projects which are beneficial for society
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
